@@ -14,7 +14,7 @@ const caseStudies = [
         images: [
             {
                 src: "/images/case-studies/film-search.webp",
-                alt: "Final search results interface for the community film platform",
+                alt: "Final search results interface for the community based film platform",
                 caption: "Final search experience",
             },
             {
