@@ -13,7 +13,7 @@ function Contact() {
         setStatus("Sending...");
 
         try {
-            const response = await fetch("YOUR_FORM_ENDPOINT_HERE", {
+            const response = await fetch("https://formspree.io/f/xnpaojgl", {
                 method: "POST",
                 body: formData,
                 headers: {
